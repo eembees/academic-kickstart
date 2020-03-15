@@ -17,28 +17,54 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "3+5 Ph.D. Student"
+  company = "The Hatzakis Lab, University of Copenhagen"
+  company_url = "http:/hatzakislab.com/"
+  location = "Copenhagen, Denmark"
+  date_start = "2019-02-01"
   date_end = ""
+  description = """I use a variety of statistical models on diverse datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology."""
+
+
+[[experience]]
+  title = "Student Assistant"
+  company = "MAN Energy Solutions"
+  company_url = "https://www.man-es.com/"
+  location = "Copenhagen, Denmark"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """Large-scale analysis of microscopy images to quantify wear of piston ring coatings."""
+
+[[experience]]
+  title = "Seasonal Staff / Dreng"
+  company = "Vangshaugen Tourist Cabin"
+  company_url = "https://www.kntur.no/vangshaugen/"
+  location = "Grødalen, Norway"
+  date_start = "2018-07-16"
+  date_end = "2018-08-19"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Maintaining and running a Tourist Cabin for the Norwegian Tourist Association.
+  Responsibilities:
+  - Tenant relations
+  - Serving at all meals (>40 people)
+  - General maintenance of the property
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Summer Intern in Procurement, 2 seasons"
+  company = "BioMar A/S"
+  company_url = "https://www.biomar.com/no/norway/"
+  location = "Trondheim, Norway"
+  date_start = "2016-07-01"
+  date_end = "2017-08-01"
+  description = """
+  Responsibilities:
+  - Updating SharePoint, Excel, and M3 databases with biochemical analysis results for shipments
+  - Maintaining Excel spreadsheets and assisting in preparing Q3 reports
+  - Taking minutes at multilingual phone meetings in the Back Office department
+  """
+
 
 +++
