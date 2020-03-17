@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "90%"
+    icon = "python"
+    icon_pack = "fab"
+    name = "Python"
+    description = "I use Python on a daily basis to analyze microscopy images, time series, and build predictive models and software for our research group"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+    icon = "chalkboard-teacher"
+    icon_pack = "fas"
+    name = "Teaching"
+    description = "I have volunteered as a trainer and facilitator, and teach in the course Nanobio 1 at UCPH. "
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+    icon = "chart-line"
+    icon_pack = "fas"
+    name = "Statistics"
+    description = "My research is based on the use of statistical techniques and models to understand protein structure and function"  
 
 +++
