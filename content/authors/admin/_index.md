@@ -17,9 +17,9 @@ organizations:
 #- name: University of Copenhagen
 #  url: "chem.ku.dk"
 - name: Novo Nordisk Foundation Center for Protein Research
-  url: "cpr.ku.dk"
+  url: "https://cpr.ku.dk"
 - name: MAN Energy Solutions
-  url: "man-es.com"
+  url: "https://man-es.com"
 - name: Tekna
   url: "https://www.tekna.no/"
 
@@ -50,24 +50,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: orcid
-  icon_pack: fab
-  link: http://www.orcid.org/0000-0001-8669-4039
 - icon: github
   icon_pack: fab
   link: https://github.com/eembees
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/msletfj/
+- icon: orcid
+  icon_pack: fab
+  link: http://www.orcid.org/0000-0001-8669-4039
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv_full.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
