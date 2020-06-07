@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Work Experience"
 subtitle = ""
@@ -17,6 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+# [[experience]]
+#   title = "Software Engineering Intern"
+#   company = "Corti"
+#   company_url = "https://corti.ai/"
+#   location = "Copenhagen, Denmark"
+#   date_start = "2020-11-01"
+#   date_end = ""
+#   description = """
+#   At Corti, we build intelligent machines for augmented medicine. 
+#   Notably we help medical personnel make crucial decisions in cases of medical emergency. 
+#   Corti's AI works in real time, and it actually saves lives.
+#   """
+
+
 
 [[experience]]
   title = "3+5 Ph.D. Student"
@@ -35,7 +50,11 @@ date_format = "Jan 2006"
   location = "Copenhagen, Denmark"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Large-scale analysis of microscopy images to quantify wear of piston ring coatings."""
+  description = """
+  Projects:
+  - Large-scale analysis of microscopy images to quantify wear of piston ring coatings.
+  - Characterizing graphite defects in cast iron by morphology.
+  """
 
 [[experience]]
   title = "Seasonal Staff / Dreng"

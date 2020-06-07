@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-24"
   date_end = "2019-11-28"
-  description = "Covered introduction to EY's style of problem solving and presentation techniques. Six session with topics and instructors from across different service lines of EY's Advisory branch."
+  description = "Covered introduction to EY's style of problem solving and presentation techniques. Six session with topics and instructors from across different service lines of EY's Advisory branch. My main focus was new digital technologies and their business applications."
 
 #[[item]]
 #  organization = "edX"

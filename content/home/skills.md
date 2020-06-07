@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -24,7 +24,7 @@ subtitle = ""
     icon = "chalkboard-teacher"
     icon_pack = "fas"
     name = "Teaching"
-    description = "I have volunteered as a trainer and facilitator, and teach in the course Nanobio 1 at UCPH. "
+    description = "I have volunteered as a trainer and facilitator, and have taught courses in Nanobiology and Spectroscopy for B.Sc. students at UCPH."
   
 [[feature]]
     icon = "chart-line"

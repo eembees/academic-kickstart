@@ -2,8 +2,8 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 55  # Order that this section will appear.
 
 title = "Volunteer Causes"
 subtitle = "I've been involved in a series of volunteer causes. Here are some of them."
@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2020-03-01"
   description = """
-  When I moved to Denmark, my friend Endre and I founded The European Youth Parliament Denmark, to provide a platform for Danish youth to express themselves, and debate global affairs.
-  I had the great pleasure to serve as President of the Board, and be part of the quintessential starting phase for the organization. 
+  When I moved to Denmark, my friend Endre and I founded The European Youth Parliament Denmark
   """
 
 [[item]]

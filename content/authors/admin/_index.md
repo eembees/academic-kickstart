@@ -24,7 +24,7 @@ organizations:
   url: "https://www.tekna.no/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include modelling complex biological datasets with probabilistic models and machine learning. 
 
 interests:
 - Probabilistic Models
@@ -37,7 +37,7 @@ education:
   courses:
   - course: 3+5 M.Sc./Ph.D. in Nanoscience / Biophysics
     institution: University of Copenhagen
-    year: 2020
+    year: 2023
   - course: BSc in Nanoscience
     institution: University of Copenhagen
     year: 2018
@@ -80,5 +80,4 @@ user_groups:
 ---
 
 I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
-My research focuses on using higher level statistical methods to deconvolute conformational dynamics of enzymes.
-
+My research focuses on using statistical methods to find a correlation between the conformational dynamics of enzymes and their stochastic behavior under TIRF microscopy.
