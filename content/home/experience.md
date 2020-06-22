@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "3+5 Ph.D. Student"
   company = "The Hatzakis Lab, University of Copenhagen"
-  company_url = "http:/hatzakislab.com/"
+  company_url = "http://hatzakislab.com/"
   location = "Copenhagen, Denmark"
   date_start = "2019-02-01"
   date_end = ""
