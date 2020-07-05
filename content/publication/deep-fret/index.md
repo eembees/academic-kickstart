@@ -6,7 +6,7 @@ subtitle: "Rapid and automated single molecule FRET data classification using de
 summary: "Single molecule Förster Resonance energy transfer (smFRET) is a mature and adaptable method for studying the structure of biomolecules and integrating their dynamics into structural biology. 
 The development of high throughput methodologies and ... "
 
-abstract: "[GitHub](https://github.com/hatzakislab/DeepFRET-GUI) -- [BioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.06.26.173260v1) \n\n 
+abstract: "
 Single molecule Förster Resonance energy transfer (smFRET) is a mature and adaptable method for studying the structure of biomolecules and integrating their dynamics into structural biology. 
 The development of high throughput methodologies and the growth of commercial instrumentation have outpaced the development of rapid, standardized, and fully automated methodologies to objectively analyze the wealth of produced data. 
 Here we present DeepFRET, an automated standalone solution based on deep learning, where the only crucial human intervention in transiting from raw microscope images to histogram of biomolecule behavior, is a user-adjustable quality threshold. 
@@ -19,7 +19,10 @@ The provided a standalone executable based on open source code capitalises on th
 authors: []
 tags: [academic, machine-learning, biophysics]
 categories: [academic, machine-learning, biophysics]
-# external-link: "https://github.com/hatzakislab/DeepFRET-GUI"
+url_code: "https://github.com/hatzakislab/DeepFRET-GUI"
+url_preprint: "https://www.biorxiv.org/content/10.1101/2020.06.26.173260v1"
+publication_types: ["3"]
+publication: "[BioRxiv](https://www.biorxiv.org/)"
 date: 2020-06-25T15:19:33+02:00
 lastmod: 2020-06-25T15:19:33+02:00
 featured: false

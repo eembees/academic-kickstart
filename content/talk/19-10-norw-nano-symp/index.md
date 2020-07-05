@@ -12,8 +12,12 @@ address:
   postcode:
   country:
 summary:
-abstract: Enzymes regulate a plethora of vital cellular processes, and aberration in their function can result in countless disease states. Enzymes also harbour essential industrial applications, including drug synthesis and detergent development. Deciphering how structural dynamics and conformational sampling dictate enzyme function remains a key challenge, both in functional design of enzymes and to understand fundamental biological processes.
-          I present how single-protein fluorescence microscopy measurements reveal previously unknown information of the structure-function relationship of a wide range of enzymes, ranging from industrial lipases to the well-known CRISPR system. We show how single-particle tracking of Thermomyces Lanuginosus Lipase (TLL), on native trimyristin substrate surfaces unveiled distinct patterns of lipase diffusional properties and correlation to surface morphology. Furthermore, we show how single- molecule FRET experiments, coupled with cryo-EM structures of CRISPR during cleavage divulged the thermodynamics and kinetics governing conformational activation during DNA hydrolysis.
+abstract: "Enzymes regulate a plethora of vital cellular processes, and aberration in their function can result in countless disease states. 
+Enzymes also harbour essential industrial applications, including drug synthesis and detergent development. 
+Deciphering how structural dynamics and conformational sampling dictate enzyme function remains a key challenge, both in functional design of enzymes and to understand fundamental biological processes.    
+I present how single-protein fluorescence microscopy measurements reveal previously unknown information of the structure-function relationship of a wide range of enzymes, ranging from industrial lipases to the well-known CRISPR system. 
+We show how single-particle tracking of Thermomyces Lanuginosus Lipase (TLL), on native trimyristin substrate surfaces unveiled distinct patterns of lipase diffusional properties and correlation to surface morphology. 
+Furthermore, we show how single- molecule FRET experiments, coupled with cryo-EM structures of CRISPR during cleavage divulged the thermodynamics and kinetics governing conformational activation during DNA hydrolysis."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

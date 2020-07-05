@@ -26,9 +26,8 @@ date_format = "Jan 2006"
 #   date_start = "2020-11-01"
 #   date_end = ""
 #   description = """
-#   At Corti, we build intelligent machines for augmented medicine. 
-#   Notably we help medical personnel make crucial decisions in cases of medical emergency. 
-#   Corti's AI works in real time, and it actually saves lives.
+#   Corti builds intelligent machines for augmented medicine.
+#   Specifically, Corti's  AI supports medical personnel on making decisions in real time during medical emergencies. 
 #   """
 
 
@@ -40,7 +39,9 @@ date_format = "Jan 2006"
   location = "Copenhagen, Denmark"
   date_start = "2019-02-01"
   date_end = ""
-  description = """I use a variety of statistical models on diverse datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology."""
+  description = """
+  I use a variety of statistical models (ConvNets, LSTMs, Hidden Markov Models) on diverse biological datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology.
+  """
 
 
 [[experience]]
@@ -49,11 +50,11 @@ date_format = "Jan 2006"
   company_url = "https://www.man-es.com/"
   location = "Copenhagen, Denmark"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
   Projects:
   - Large-scale analysis of microscopy images to quantify wear of piston ring coatings.
-  - Characterizing graphite defects in cast iron by morphology.
+  - Characterizing graphite defects in cast iron by segmentation and morphology analysis.
   """
 
 [[experience]]

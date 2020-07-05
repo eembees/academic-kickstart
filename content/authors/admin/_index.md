@@ -80,4 +80,4 @@ user_groups:
 ---
 
 I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
-My research focuses on using statistical methods to find a correlation between the conformational dynamics of enzymes and their stochastic behavior under TIRF microscopy.
+My research focuses on using statistical methods to couple the conformational dynamics of enzymes to their stochastic behavior under TIRF microscopy.

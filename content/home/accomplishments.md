@@ -28,15 +28,15 @@ date_format = "Jan 2006"
   date_end = "2019-11-28"
   description = "Covered introduction to EY's style of problem solving and presentation techniques. Six session with topics and instructors from across different service lines of EY's Advisory branch. My main focus was new digital technologies and their business applications."
 
-#[[item]]
-#  organization = "edX"
-#  organization_url = "https://www.edx.org"
-#  title = "Blockchain Fundamentals"
-#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
-#  date_start = "2018-03-01"
-#  date_end = ""
-#  description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]
+  organization = "freeCodeCamp"
+  organization_url = "https://www.freeCodeCamp.org"
+  title = "JavaScript Algorithms and Data Structures"
+  url = "https://www.freecodecamp.org/learn"
+  certificate_url = "https://www.freecodecamp.org/certification/eembees/javascript-algorithms-and-data-structures"
+  date_start = "2020-06-15"
+  date_end = "2020-07-05"
+  description = "Developed a working understanding of JavaScript and how  to program simple algorithms for use in frontends."
   
 #[[item]]
 #  organization = "DataCamp"
