@@ -18,17 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[experience]]
-#   title = "Software Engineering Intern"
-#   company = "Corti"
-#   company_url = "https://corti.ai/"
-#   location = "Copenhagen, Denmark"
-#   date_start = "2020-11-01"
-#   date_end = ""
-#   description = """
-#   Corti builds intelligent machines for augmented medicine.
-#   Specifically, Corti's  AI supports medical personnel on making decisions in real time during medical emergencies. 
-#   """
+ [[experience]]
+   title = "Software Engineering Intern"
+   company = "Corti"
+   company_url = "https://corti.ai/"
+   location = "Copenhagen, Denmark"
+   date_start = "2020-11-01"
+   date_end = ""
+   description = """
+   Corti builds intelligent machines for augmented medicine.
+   Our AI supports medical personnel on making decisions in real time during medical emergencies. 
+   """
 
 
 

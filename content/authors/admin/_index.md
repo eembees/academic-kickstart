@@ -80,4 +80,7 @@ user_groups:
 ---
 
 I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
+
 My research focuses on using statistical methods to couple the conformational dynamics of enzymes to their stochastic behavior under TIRF microscopy.
+
+I also like herbal teas and endurance training.
