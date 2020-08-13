@@ -82,20 +82,23 @@ edit_page = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mbs@chem.ku.dk"
+#email = "mbs@chem.ku.dk"
+email = "eembees@gmail.com"
 phone = "+45 42 64 54 41"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Thorvaldsensvej 40", city = "Frederiksberg C", postcode = "1871", country = "Denmark", country_code = "DK"}
+# address = {street = "Thorvaldsensvej 40", city = "Frederiksberg C", postcode = "1871", country = "Denmark", country_code = "DK"}
+address = {street = "Store Strandstraede 21, 4tv", city = "København K",  country = "Denmark", country_code = "DK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "55.682682", longitude = "12.543751"}
+# coordinates = {latitude = "55.682682", longitude = "12.543751"}
+coordinates = {latitude = "55.681349", longitude = "12.589129"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
-directions = "Take the elevator from Opgang 8 to the 5th floor, and go to office T559/T563 "
+# directions = "Take the elevator from Opgang 8 to the 5th floor, and go to office T559/T563 "
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

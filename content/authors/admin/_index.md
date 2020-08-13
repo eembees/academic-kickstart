@@ -14,12 +14,10 @@ role: Ph.D. Student in Biophysics
 
 # Organizations/Affiliations
 organizations:
-#- name: University of Copenhagen
-#  url: "chem.ku.dk"
+- name: Corti
+  url: "https://corti.ai"
 - name: Novo Nordisk Foundation Center for Protein Research
   url: "https://cpr.ku.dk"
-- name: MAN Energy Solutions
-  url: "https://man-es.com"
 - name: Tekna
   url: "https://www.tekna.no/"
 
