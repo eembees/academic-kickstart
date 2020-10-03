@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Biophysics 
+role: Intern Machine Learning Engineer - Ph.D. Student in Biophysics 
 
 # Organizations/Affiliations
 organizations:
@@ -77,7 +77,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
+At the moment, I am fulfilling a 6-month full-time Internship as a Machine Learning Engineer at Corti.
+
+Normally, I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
 
 My research focuses on using statistical methods to couple the conformational dynamics of enzymes to their stochastic behavior under TIRF microscopy.
 

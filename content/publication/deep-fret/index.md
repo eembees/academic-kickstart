@@ -3,8 +3,7 @@
 
 title: "DeepFRET"
 subtitle: "Rapid and automated single molecule FRET data classification using deep learning"
-summary: "Single molecule Förster Resonance energy transfer (smFRET) is a mature and adaptable method for studying the structure of biomolecules and integrating their dynamics into structural biology. 
-The development of high throughput methodologies and ... "
+summary: "DeepFRET, a new deep learning-based platform for standardized, automated, and unbiased single-molecule FRET data analysis, seeks to lower the threshold for smFRET expertise, allowing for a greater number of scientists to take advantage of this powerful technique. "
 
 abstract: "
 Single molecule Förster Resonance energy transfer (smFRET) is a mature and adaptable method for studying the structure of biomolecules and integrating their dynamics into structural biology. 

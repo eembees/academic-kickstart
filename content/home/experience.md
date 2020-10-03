@@ -27,7 +27,12 @@ date_format = "Jan 2006"
    date_end = ""
    description = """
    Corti builds intelligent machines for augmented medicine.
-   Our AI supports medical personnel on making decisions in real time during medical emergencies. 
+   Our AI supports medical personnel on making decisions in real time during medical emergencies, combining bleeding-edge machine learning research and real-world data from emergency calls.
+   I worked on the following types of projects:
+   - Building and testing REST-APIs for interacting with SQL and NoSQL databases in Azure Functions.
+   - Constructing and deploying Data Pipelines with Azure Data Factory
+   - QA and testing of Elastic-Search database instances in AWS
+   - Automating cloud deployments of Dockerized microservices
    """
 
 
@@ -40,7 +45,11 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = ""
   description = """
-  I use a variety of statistical models (ConvNets, LSTMs, Hidden Markov Models) on diverse biological datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology.
+  I use a variety of statistical models (ConvNets, LSTMs, Hidden Markov Models) on diverse biological datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology.  
+  Projects:  
+  - Automating data analysis of smFRET traces in [DeepFRET](publication/deep-fret/).
+  - Simulation of [CYPOR](publication/por) conformational dynamics.
+  - Analyses of multiplexed liposome assays.
   """
 
 
@@ -53,8 +62,8 @@ date_format = "Jan 2006"
   date_end = "2020-08-31"
   description = """
   Projects:
-  - Large-scale analysis of microscopy images to quantify wear of piston ring coatings.
-  - Characterizing graphite defects in cast iron by segmentation and morphology analysis.
+  - U-NET segmentation of microscopy images to quantify wear of piston ring coatings.
+  - Characterizing graphite defects in cast iron by morphology analysis.
   """
 
 [[experience]]
