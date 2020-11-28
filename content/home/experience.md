@@ -33,6 +33,8 @@ date_format = "Jan 2006"
    - Constructing and deploying Data Pipelines with Azure Data Factory
    - QA and testing of Elastic-Search database instances in AWS
    - Automating cloud deployments of Dockerized microservices
+   - Develop and deploy machine-learning models for real-time NLP tasks using TensorFlow.
+   - Improved data upload pipeline to pSQL databases by 98% from ~3 days to 15 minutes.
    """
 
 

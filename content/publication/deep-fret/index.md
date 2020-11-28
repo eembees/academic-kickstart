@@ -18,10 +18,12 @@ The provided a standalone executable based on open source code capitalises on th
 authors: []
 tags: [academic, machine-learning, biophysics]
 categories: [academic, machine-learning, biophysics]
+url_pdf: "https://elifesciences.org/articles/60404"
 url_code: "https://github.com/hatzakislab/DeepFRET-GUI"
 url_preprint: "https://www.biorxiv.org/content/10.1101/2020.06.26.173260v1"
-publication_types: ["3"]
-publication: "[BioRxiv](https://www.biorxiv.org/)"
+doi: "10.7554/eLife.60404"
+publication_types: ["2"]
+publication: "[E-Life](http://elifesciences.org/)"
 date: 2020-06-25T15:19:33+02:00
 lastmod: 2020-06-25T15:19:33+02:00
 featured: false
