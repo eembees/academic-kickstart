@@ -47,7 +47,17 @@ date_format = "Jan 2006"
   certificate_url = "https://www.freecodecamp.org/certification/eembees/javascript-algorithms-and-data-structures"
   date_start = "2020-06-15"
   date_end = "2020-07-05"
-  description = "Developed a working understanding of JavaScript and how  to program simple algorithms for use in frontends."
+  description = "Developed a working understanding of JavaScript and how to program simple algorithms for use in frontends."
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
+  url = "https://www.coursera.org/learn/algorithms-divide-conquer"
+  certificate_url = "https://www.coursera.org/verify/FU9VKS3G2YX5"
+  date_start = "2021-01-15"
+  date_end = "2020-03-05"
+  description = "Asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts)."
   
 [[item]]
   organization = "Dansk Klatreforbund"
