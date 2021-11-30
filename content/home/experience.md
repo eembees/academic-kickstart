@@ -62,13 +62,13 @@ date_format = "Jan 2006"
   company_url = "http://hatzakislab.com/"
   location = "Copenhagen, Denmark"
   date_start = "2019-02-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """
-  I use a variety of statistical models (ConvNets, LSTMs, Hidden Markov Models) on diverse biological datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology.  
+  Use of a variety of statistical models (ConvNets, LSTMs, Hidden Markov Models) on diverse biological datasets to streamline current data processing pipelines and determine hidden trends in single-molecule enzymology.  
   Projects:  
   - Automating data analysis of smFRET traces in [DeepFRET](publication/deep-fret/).
   - Simulation of [CYPOR](publication/por) conformational dynamics.
-  - Analyses of multiplexed liposome assays.
+  - Statistical analyses of multiplexed liposome assays in [SPARCLD](https://doi.org/10.1101/2021.01.19.427313)
   """
 
 

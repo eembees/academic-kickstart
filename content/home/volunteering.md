@@ -51,11 +51,11 @@ date_format = "Jan 2006"
   url = "https://www.tekna.no"
   certificate_url = ""
   date_start = "2018-02-01"
-  date_end = ""
+  date_end = "2021-08-01"
   description = """
   I got involved in Tekna in the spring of 2018. 
   As a Student Contact, I had the opportunity to organize events and gatherings for Norwegian students within scientific and technical subjects.
-  Later, as the Head of the Copenhagen Branch, I have had the pleasure to oversee a series of different events for our volunteers. 
+  Later, as the Head of the Copenhagen Branch, I have had the pleasure to oversee a series of different events for our volunteers and members. 
   """
 
 

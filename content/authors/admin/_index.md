@@ -16,27 +16,27 @@ role: Intern Machine Learning Engineer - Ph.D. Student in Biophysics
 organizations:
 - name: Corti
   url: "https://corti.ai"
-- name: Novo Nordisk Foundation Center for Protein Research
-  url: "https://cpr.ku.dk"
-- name: Tekna
-  url: "https://www.tekna.no/"
+# - name: Tekna
+#   url: "https://www.tekna.no/"
+- name: Nørrebro Klatreklub
+  url: "https://nkk.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include modelling complex biological datasets with probabilistic models and machine learning. 
+bio: My research interests include probabilistic models, generative models and causality. 
 
 interests:
-- Probabilistic Models
+- Probabilistic Generative Models
 - Image Analysis and Segmentation
-- International Relations and Governance
+- Responsible Governance & International Relations
 - Rock Climbing and Sailing
 
 
 education:
   courses:
-  - course: 3+5 M.Sc./Ph.D. in Nanoscience / Biophysics
+  - course: M.Sc. in Nanoscience / Biophysics
     institution: University of Copenhagen
-    year: 2023
-  - course: BSc in Nanoscience
+    year: 2022
+  - course: B.Sc. in Nanoscience
     institution: University of Copenhagen
     year: 2018
 
@@ -57,9 +57,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: http://www.orcid.org/0000-0001-8669-4039
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=_IO5SXwAAAAJ
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
