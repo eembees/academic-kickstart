@@ -77,10 +77,9 @@ user_groups:
 - Visitors
 ---
 
-At the moment, I am fulfilling a 6-month full-time Internship as a Machine Learning Engineer at Corti.
+I am currently a Machine Learning Engineer at Corti.ai
 
-Normally, I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
+Previousy, I am a Ph.D. Student in Biophysics at the Hatzakis Lab, which is a part of the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen.
 
-My research focuses on using statistical methods to couple the conformational dynamics of enzymes to their stochastic behavior under TIRF microscopy.
 
 I also like herbal teas and endurance training.

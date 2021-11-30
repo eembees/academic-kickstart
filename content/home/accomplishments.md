@@ -57,7 +57,7 @@ date_format = "Jan 06"
   certificate_url = "https://www.coursera.org/verify/FU9VKS3G2YX5"
   date_start = "2021-01-15"
   date_end = "2020-03-05"
-  description = "Asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts)."
+  description = "Asymptotic ('Big-oh') notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts)."
   
 [[item]]
   organization = "Dansk Klatreforbund"
