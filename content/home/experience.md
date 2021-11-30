@@ -18,23 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+ [[experience]]
+   title = "Junior Machine Learning Engineer"
+   company = "Corti"
+   company_url = "https://corti.ai/"
+   location = "Copenhagen, Denmark"
+   date_start = "2021-03-01"
+   date_end = ""
+   description = """
+   Corti builds intelligent machines for augmented medicine.
+   Our AI supports medical personnel on making decisions in real time during medical emergencies, combining bleeding-edge machine learning research and real-world data from emergency calls.
+   I worked on the following types of projects:
+   - Main architect of a full-stack end2end testing framework for Microsoft Azure cloud deployments.
+   - Create and maintain end2end CI/CD Microsoft Azure pipeline for scalable Dockerized using Google developed gRPC-based microservices with Tensorflow models built-in. 
+   
+   """
+  
  [[experience]]
    title = "Intern Machine Learning Engineer"
    company = "Corti"
    company_url = "https://corti.ai/"
    location = "Copenhagen, Denmark"
    date_start = "2020-08-10"
-   date_end = ""
+   date_end = "2021-03-01"
    description = """
    Corti builds intelligent machines for augmented medicine.
    Our AI supports medical personnel on making decisions in real time during medical emergencies, combining bleeding-edge machine learning research and real-world data from emergency calls.
    I worked on the following types of projects:
-   - Building and testing REST-APIs for interacting with SQL and NoSQL databases in Azure Functions.
+   - Building and testing REST-APIs for SQL and NoSQL (Mongo, ElasticSearch) databases in Azure Functions.
    - Constructing and deploying Data Pipelines with Azure Data Factory
-   - QA and testing of Elastic-Search database instances in AWS
-   - Automating cloud deployments of Dockerized microservices
+   - Automating cloud deployments of Dockerized machine-learning based microservices.
    - Develop and deploy machine-learning models for real-time NLP tasks using TensorFlow.
    - Improved data upload pipeline to pSQL databases by 98% from ~3 days to 15 minutes.
+   - Migrate Jenkins-based CI/CD hosted in Amazon AWS to Microsoft Azure Pipelines
    """
 
 
