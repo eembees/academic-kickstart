@@ -4,11 +4,11 @@
 title: "Generative Modelling of Sequential Data"
 summary: ""
 
-abstract: ""
+abstract: "Autoregressive convolutional neural networks such as WaveNet are powerful models that have recently achieved state-of-the-art results on both text-to-speech tasks and language modelling. In spite of this, they have so-far been unable to generate coherent speech samples when learnt from audio alone. The original configuration of WaveNet uses repeated blocks of dilated convolutions to reach a receptive field of 300 ms. In this work, we test hypotheses relating to the role of WaveNet’s receptive field in learning to unconditionally generate coherent speech when not conditioned on auxiliary signals such as text. We also examine the usefulness of the learned representations for the downstream task of automatic speech recognition. By transforming the input data to stacks of multiple audio samples per timestep, we increase the receptive field to up to 5 seconds. We find that enlarging the receptive field alone is insufficient to generate coherent samples. We also provide evidence that WaveNets create representations of speech that are helpful in downstream tasks. Finally, we find that WaveNets lack capability to model natural language and argue that this is the limiting factor for direct speech generation."
 authors: []
 tags: [academic, machine-learning]
 categories: [academic, machine-learning]
-# url_preprint: "https://doi.org/10.21203/rs.3.rs-75642/v1"
+# url_preprint: ""
 publication_types: ["7"]
 date: 2022-01-12T12:00:00+01:00
 lastmod: 2022-01-13T11:14:47+01:00

@@ -20,12 +20,26 @@ date_format = "Jan 2006"
 
 
  [[experience]]
+   title = "Data Engineering Assosciate"
+   company = "Corti"
+   company_url = "https://corti.ai/"
+   location = "Copenhagen, Denmark"
+   date_start = "2022-03-01"
+   date_end = ""
+   description = """
+   Corti builds intelligent machines for augmented medicine.
+   Our AI supports medical personnel on making decisions in real time during medical emergencies, combining bleeding-edge machine learning research and real-world data from emergency calls.   
+   """
+  
+
+
+ [[experience]]
    title = "Junior Machine Learning Engineer"
    company = "Corti"
    company_url = "https://corti.ai/"
    location = "Copenhagen, Denmark"
    date_start = "2021-03-01"
-   date_end = ""
+   date_end = "2022-02-28"
    description = """
    Corti builds intelligent machines for augmented medicine.
    Our AI supports medical personnel on making decisions in real time during medical emergencies, combining bleeding-edge machine learning research and real-world data from emergency calls.
