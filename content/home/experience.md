@@ -20,21 +20,24 @@ date_format = "Jan 2006"
 
 
  [[experience]]
-   title = "Data Engineering Assosciate"
+   title = "Data Engineer [Full-Time]"
    company = "Corti"
    company_url = "https://corti.ai/"
    location = "Copenhagen, Denmark"
    date_start = "2022-03-01"
    date_end = ""
    description = """
-   Corti builds intelligent machines for augmented medicine.
-   Our AI supports medical personnel on making decisions in real time during medical emergencies, combining bleeding-edge machine learning research and real-world data from emergency calls.   
+   Corti builds intelligent machines for augmented medicine.  
+   I contributed in the following ways:
+   - Main architect of a gRPC microservice adapter for real-time data streaming and conversion to Corti's online detection service, decreasing latency by 70%. 
+   - Co-designed a Data Warehouse solution to allow customers and internal stakeholders access to their own data, unlocking insights for call reduction time.  
+   - Main architect a custom CockroachDB - Postgres ETL tool with SQLAlchemy to transfer user interaction data to a data warehouse.
    """
   
 
 
  [[experience]]
-   title = "Junior Machine Learning Engineer"
+   title = "Junior Machine Learning Engineer [Part-Time]"
    company = "Corti"
    company_url = "https://corti.ai/"
    location = "Copenhagen, Denmark"
@@ -50,7 +53,7 @@ date_format = "Jan 2006"
    """
   
  [[experience]]
-   title = "Intern Machine Learning Engineer"
+   title = "Intern Machine Learning Engineer [Full-Time]"
    company = "Corti"
    company_url = "https://corti.ai/"
    location = "Copenhagen, Denmark"
@@ -71,7 +74,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "3+5 Ph.D. Student"
+  title = "3+5 Ph.D. Student [Full-Time]"
   company = "The Hatzakis Lab, University of Copenhagen"
   company_url = "http://hatzakislab.com/"
   location = "Copenhagen, Denmark"
@@ -87,7 +90,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Student Assistant"
+  title = "Student Assistant [Part-Time]"
   company = "MAN Energy Solutions"
   company_url = "https://www.man-es.com/"
   location = "Copenhagen, Denmark"
@@ -100,7 +103,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Seasonal Staff / Dreng"
+  title = "Seasonal Staff / Dreng [Full-Time]"
   company = "Vangshaugen Tourist Cabin"
   company_url = "https://www.kntur.no/vangshaugen/"
   location = "Grødalen, Norway"
@@ -115,7 +118,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Summer Intern in Procurement, 2 seasons"
+  title = "Summer Intern in Procurement, 2 seasons [Full-Time]"
   company = "BioMar A/S"
   company_url = "https://www.biomar.com/no/norway/"
   location = "Trondheim, Norway"
